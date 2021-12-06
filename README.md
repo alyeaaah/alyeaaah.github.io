@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+#  Finally you have found me!
 
-You can use the [editor on GitHub](https://github.com/alyeaaah/alyeaaah.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, I’m a System Engineer and Web Developer based in Indonesia. I live in Surabaya on weekdays. I love being minimal and creative.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I work as full-stack engineer. in Frontend I usually use Angular, React and also Next JS for SSR needs. In Backend, I usually use PHP with CodeIgniter framework or Javascript with Express JS Framework. In Mobile App Development I usually use hybrid frameworks like Ionic Capacitor or React Native Framework.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alyeaaah/alyeaaah.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Sorry, I haven't finished writing all of this, so you can find me elsewhere, like [Instagram](instagram.com/zzaula?utm_source=ig_web_button_share_sheet) or [My Upwork Profile](https://www.upwork.com/freelancers/~019b5abaf4d261d9f5?s=1110580755107926016)
