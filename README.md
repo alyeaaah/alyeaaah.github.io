@@ -22,4 +22,4 @@ I work as full-stack engineer. in Frontend I usually use Angular, React and also
 13. [see more](https://www.instagram.com/fune.co/)
 
 
-**_Sorry, I haven't finished writing all of this, so you can find me elsewhere, like [Instagram](instagram.com/zzaula?utm_source=ig_web_button_share_sheet) or [Upwork](https://www.upwork.com/freelancers/~019b5abaf4d261d9f5?s=1110580755107926016)_**
+**_Sorry, I haven't finished writing all of this, so you can find me elsewhere, like [Instagram](instagram.com/fune.co?utm_source=ig_web_button_share_sheet) or [Upwork](https://www.upwork.com/freelancers/~019b5abaf4d261d9f5?s=1110580755107926016)_**
